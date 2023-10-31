@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/levels">
+        <file>level_0.txt</file>
+        <file>level_1.txt</file>
+        <file>level_2.txt</file>
+        <file>level_3.txt</file>
+        <file>level_4.txt</file>
+    </qresource>
+    <qresource prefix="/levelspng"/>
+</RCC>

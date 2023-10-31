@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c1a8dcd044031126f1d4f6b8b117d6af CMakeFiles/baba_is_you_autogen
+70137ee13a3c929380f82cc4f8189694 qrc_resources.cpp

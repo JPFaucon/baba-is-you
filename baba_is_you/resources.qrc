@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/levels">
+        <file>level_0.txt</file>
+        <file>level_1.txt</file>
+        <file>level_2.txt</file>
+        <file>level_3.txt</file>
+        <file>level_4.txt</file>
+    </qresource>
+    <qresource prefix="/levelspng"/>
+    <qresource prefix="/">
+        <file>sprites/flag.png</file>
+        <file>sprites/grass.png</file>
+        <file>sprites/lava.png</file>
+        <file>sprites/rock.png</file>
+        <file>sprites/text_baba.png</file>
+        <file>sprites/text_flag.png</file>
+        <file>sprites/text_grass.png</file>
+        <file>sprites/text_is.png</file>
+        <file>sprites/text_kill.png</file>
+        <file>sprites/text_lava.png</file>
+        <file>sprites/text_push.png</file>
+        <file>sprites/text_rock.png</file>
+        <file>sprites/text_sink.png</file>
+        <file>sprites/text_stop.png</file>
+        <file>sprites/text_wall.png</file>
+        <file>sprites/text_water.png</file>
+        <file>sprites/text_win.png</file>
+        <file>sprites/text_you.png</file>
+        <file>sprites/wall.png</file>
+        <file>sprites/water.png</file>
+        <file>sprites/baba.png</file>
+        <file>sprites/border.png</file>
+    </qresource>
+</RCC>
